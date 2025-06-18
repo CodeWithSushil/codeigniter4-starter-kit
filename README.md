@@ -19,4 +19,5 @@ A full-stack boilerplate to kickstart modern web applications using:
 - ✅ Pre-installed essential dev tools and ESLint
 
 ---
-[Hello](@CodeWithSushil)
+[MIT License](./LICENCE)
+
